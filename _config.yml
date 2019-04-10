@@ -1,6 +1,6 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Plant Evolution & Biodiversity Group
+author: Wolf L. Eiserhardt
+email: wolf.eiserhardt@bios.au.dk
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -15,9 +15,9 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    rss: rss
+    #twitter: w_eiserhardt
+    github: pebgroup
+    #rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
@@ -49,3 +49,7 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ 
+header_pages:
+ - about.md
+ - test.md

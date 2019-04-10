@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+## Welcome!
+Some test text
