@@ -12,6 +12,7 @@
 }
 
 .site-title {
+  color: $brand-color;
   @include relative-font-size(1.625);
   font-weight: 300;
   letter-spacing: -1px;
@@ -24,8 +25,9 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $brand-color;
   }
+  
 }
 
 .site-nav {
@@ -36,7 +38,7 @@
   border: 1px solid $grey-color-light;
   border-radius: 5px;
   text-align: right;
-
+  
   .nav-trigger {
       display: none;
   }
@@ -74,10 +76,16 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $brand-color;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
+    
+    &:hover {
+      color: $text-color;
+      text-decoration: underline;
+    }
+
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
