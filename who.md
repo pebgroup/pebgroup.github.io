@@ -4,7 +4,8 @@ title: "Who we are"
 permalink: /who/
 ---
 
-We are always looking for people who would like to join us as as students, postdocs or collaborators. We need a wide range of skills – so no matter if you are a most comfortable in the jungle or in front of a computer, please don’t hesitate to [get in touch](mailto:wolf.eiserhardt@bios.au.dk)!
+![peb-2018](/assets/images/peb2018.jpg){:width="512px"}
+<br><span class="img-legend">PEB in September 2018. Left to right: Ben Kuhnhäuser, Pirada Sumanon, Wolf Eiserhardt, Angelo Moerland, Peter Petoe.</span>
 
 ### Principal Investigator
 
@@ -23,11 +24,16 @@ We are always looking for people who would like to join us as as students, postd
 #### MSc 
 - **Mathias Damholdt** (main supervisor: Anders Barfod)
 
-## Technicians
+### Technicians
 - **Camilla Håkansson** (Molecular Laboratory)
 
-## Student assistants
+### Student assistants
 - **Annabelle de Vries** (Royal Botanic Gardens Kew)
+
+### Alumni
+- **Alexander Rudbeck** (BSc)
+- **Josephine Connelly** (BSc)
+- **Matthew Jeffery** (MSc)
 
 <br><br>
 
@@ -35,7 +41,6 @@ We are always looking for people who would like to join us as as students, postd
 
 <br><br>
 
-### Alumni
-- **Alexander Rudbeck** (BSc)
-- **Josephine Connelly** (BSc)
-- **Matthew Jeffery** (MSc)
+### Want to join?
+We are always looking for people who would like to join us as as students, postdocs or collaborators. We need a wide range of skills – so no matter if you are a most comfortable in the jungle or in front of a computer, please don’t hesitate to [get in touch](mailto:wolf.eiserhardt@bios.au.dk)!
+
