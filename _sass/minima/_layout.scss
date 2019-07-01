@@ -312,11 +312,11 @@
 .img-legend {
   color: $grey-color;
   @include relative-font-size(0.75);
-
 }
 
 .img_container_right{
   float: right;
   padding-left: 20px;
   width: 300px;
+  line-height: 0.75em;
 }
