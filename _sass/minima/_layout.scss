@@ -314,3 +314,11 @@
   @include relative-font-size(0.75);
 
 }
+
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+  width: "50%";
+}

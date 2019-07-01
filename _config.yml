@@ -1,6 +1,8 @@
 title: Plant Evolution & Biodiversity Group
 author: Wolf L. Eiserhardt
 email: wolf.eiserhardt@bios.au.dk
+url: "https://pebgroup.github.io"
+markdown: kramdown
 description: > # this means to ignore newlines until "show_exerpts:"
   
 
