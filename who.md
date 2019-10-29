@@ -4,13 +4,18 @@ title: "Who we are"
 permalink: /who/
 ---
 
-![peb-2018](/assets/images/peb2019.jpg){:width="512px"}
+![peb-2019](/assets/images/peb2019.jpg){:width="756px"}
 <br><span class="img-legend">Part of PEB in October 2019. Left to right: Miao Sun, Peter Petoe, Wolf Eiserhardt, Ben Kuhnhäuser, Lars Emil Feldager Hansen, Josephine Connelly, Emil Muff Munk, Maya Schrödl, Melanie Tietje, Mathias Damholdt, Pirada Sumanon, Alexander Rudbeck, Angelo Moerland. Not in picture: Clélie Reynaud, Camilla Håkansson</span>
 
 ### Principal Investigator
 
 - **Associate Professor Wolf L. Eiserhardt** <br>
 [Staff page](https://pure.au.dk/portal/en/wolf.eiserhardt@bios.au.dk) - [Google Scholar](https://scholar.google.com/citations?user=X419fPAAAAAJ&hl=de)
+
+### Postdocs
+
+- **Miao Sun**
+- **Melanie Tietje** (starting 1/11/2019) 
 
 ### Students
 
@@ -22,7 +27,11 @@ permalink: /who/
 - **Pirada Sumanon** (Aarhus University)
 
 #### MSc 
+- **Emil Muff Munk**
+- **Maya Schrödl** 
+- **Alexander Rudbeck**  
 - **Mathias Damholdt** (main supervisor: Anders Barfod)
+- **Clélie Reynaud** (main supervisor: Jens-Christian Svenning)
 
 ### Technicians
 - **Camilla Håkansson** (Molecular Laboratory)
