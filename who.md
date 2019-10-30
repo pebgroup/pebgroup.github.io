@@ -5,7 +5,7 @@ permalink: /who/
 ---
 
 ![peb-2019](/assets/images/peb2019.jpg){:width="756px"}
-<br><span class="img-legend">Part of PEB in October 2019. Left to right: Miao Sun, Peter Petoe, Wolf Eiserhardt, Ben Kuhnhäuser, Lars Emil Feldager Hansen, Josephine Connelly, Emil Muff Munk, Maya Schrödl, Melanie Tietje, Mathias Damholdt, Pirada Sumanon, Alexander Rudbeck, Angelo Moerland. Not in picture: Clélie Reynaud, Camilla Håkansson</span>
+<br><span class="img-legend">PEB in October 2019. Left to right: Miao Sun, Peter Petoe, Wolf Eiserhardt, Ben Kuhnhäuser, Lars Emil Feldager Hansen, Josephine Connelly, Emil Muff Munk, Maya Schrödl, Melanie Tietje, Mathias Damholdt, Pirada Sumanon, Alexander Rudbeck, Angelo Moerland. Not in picture: Clélie Reynaud, Camilla Håkansson</span>
 
 ### Principal Investigator
 
