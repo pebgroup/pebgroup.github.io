@@ -36,9 +36,6 @@ permalink: /who/
 ### Technicians
 - **Camilla Håkansson** (Molecular Laboratory)
 
-### Student assistants
-- **Annabelle de Vries** (Royal Botanic Gardens Kew)
-
 ### Alumni
 - **Alexander Rudbeck** (BSc)
 - **Josephine Connelly** (BSc)
